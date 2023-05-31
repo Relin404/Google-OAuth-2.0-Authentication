@@ -26,7 +26,8 @@ cd Google-OAuth-2.0-Authentication
 ```sh
 CLIENT_ID=your-client-id
 CLIENT_SECRET=your-client-secret
-REDIRECT_URI=http://localhost:3000/auth/google/callback 
+COOKIE_KEY_1=your-cookie-key-1
+COOKIE_KEY_2=your-cookie-key-2
 ```
 
 4.  Install the dependencies:
