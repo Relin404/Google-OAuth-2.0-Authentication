@@ -69,3 +69,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgments
 
 -   This project is based on the [Google Sign-In documentation](https://developers.google.com/identity/sign-in/web/sign-in).
+
